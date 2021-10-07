@@ -1,0 +1,4 @@
+- 👋 Hi, I’m ali al3mamy
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning C++ and php
+- 📫 fb.com\someonereallyunderstoodfb
